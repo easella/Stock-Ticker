@@ -13,7 +13,7 @@ $(document).ready(function () {
 
 
 var Ticker = {
-	API_val : "E67ZBHJYSU0K28PD",
+	API_val : "IIWRA22WIYH0W2X9",
 	topTen : [
 	"ABT", "PBF", "BAC", "AAPL", "MSFT", "BABA","JPM","BRK.B","NVDA","SBUX",
 	],
