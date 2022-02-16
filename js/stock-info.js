@@ -37,7 +37,7 @@ function getLatestClose(sym, API_val) {
 }
 
 function GetAPIStr(SYM, API_val) {
-	var url = "https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=" + SYM + "&apikey=" + API_val;
+	var url = "https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=" + SYM + "&apikey= IIWRA22WIYH0W2X9" ;
 	return url;	
 }
 
